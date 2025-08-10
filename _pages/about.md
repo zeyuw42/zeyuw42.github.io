@@ -11,11 +11,12 @@ I am a third-year graduate student at MIT. I am fortunate to be advised by Profe
 
 My research interest is in geometric representation theory, especially the Langlands program. Recently, I have been working on the intersection theory of special cycles on Shtukas.
 
-#Preprints
+# Preprints
+------
 
-1. Special Cycle on Shtukas and Categorical Trace.
+1. [Special Cycle on Shtukas and Categorical Trace](https://zeyuw42.github.io/assets/Special_cycle_classes_and_categorical_trace.pdf).
 
-2. Higher Period Integrals and Derivatives of L-functions (joint with Shurui Liu), preprint on
+2. [Higher Period Integrals and Derivatives of L-functions](https://zeyuw42.github.io/assets/assets/Higher_Period_Integrals_and_Derivatives_of_L_functions__arxiv_v2.pdf), joint with Shurui Liu), preprint on
 arXiv, https://arxiv.org/abs/2504.00275.
 
 4. Appendix to "On the relative Langlands duality for Sp2n\GL2n+1" by Guodong Xi and Weix-
