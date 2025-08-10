@@ -19,8 +19,7 @@ My research interest is in geometric representation theory, especially the Langl
 2. [Higher Period Integrals and Derivatives of L-functions](https://zeyuw42.github.io/assets/higherperiod.pdf), joint with Shurui Liu, preprint on
 arXiv, [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Updated on Aug 10, 2025.
 
-4. Appendix to "On the relative Langlands duality for Sp_2n\GL2n+1" by Guodong Xi and Weix-
-iao Lu, preprint on arXiv, [https://www.arxiv.org/abs/2504.18774](https://www.arxiv.org/abs/2504.18774).
+4. Appendix to "On the relative Langlands duality for Sp_2n\GL2n+1" by Guodong Xi and Weixiao Lu, preprint on arXiv, [https://www.arxiv.org/abs/2504.18774](https://www.arxiv.org/abs/2504.18774).
 
 
 # Talks
