@@ -25,9 +25,9 @@ arXiv, [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Upd
 # Talks
 ------
 
-April 2025, Higher Derivatives of L-functions via Rankin-Selberg convolution, at UChicago Representation Theory Seminar.  
+April 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, at UChicago Representation Theory Seminar.  
 
-July 2025, Higher Derivatives of L-functions via Rankin-Selberg convolution, at Shanghai Institute for Mathematics and Interdisciplinary Sciences.  
+July 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, at Shanghai Institute for Mathematics and Interdisciplinary Sciences.  
 
 September 2025, Intersection number of Rankin--Selberg cycles, at Johns Hopkins Number Theory
 Seminar.  
