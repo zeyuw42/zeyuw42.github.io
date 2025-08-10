@@ -38,5 +38,10 @@ Seminar.
 
 
 # Teaching
+------
+
+2024 Fall, TA for 18.725, Algebraic Geometry
+
+2025 Spring, TA for 18.703, Modern Algebra
 
 
