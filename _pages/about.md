@@ -19,19 +19,17 @@ My research interest is in geometric representation theory, especially the Langl
 2. [Higher Period Integrals and Derivatives of L-functions](https://zeyuw42.github.io/assets/higherperiod.pdf), joint with Shurui Liu, preprint on
 arXiv, [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Updated on Aug 10, 2025.
 
-4. Appendix to "On the relative Langlands duality for Sp_2n\GL2n+1" by Guodong Xi and Weixiao Lu, preprint on arXiv, [https://www.arxiv.org/abs/2504.18774](https://www.arxiv.org/abs/2504.18774).
+3. Appendix to "On the relative Langlands duality for Sp_2n\GL2n+1" by Guodong Xi and Weixiao Lu, preprint on arXiv, [https://www.arxiv.org/abs/2504.18774](https://www.arxiv.org/abs/2504.18774).
 
 
 # Talks
 ------
 
-April 2025, Higher Derivatives of L-functions via Rankin-Selberg convolution, at UChicago Rep-
-resentation Theory Seminar.  
+April 2025, Higher Derivatives of L-functions via Rankin-Selberg convolution, at UChicago Representation Theory Seminar.  
 
-July 2025, Higher Derivatives of L-functions via Rankin-Selberg convolution, at Shanghai Insti-
-tute for Mathematics and Interdisciplinary Sciences.  
+July 2025, Higher Derivatives of L-functions via Rankin-Selberg convolution, at Shanghai Institute for Mathematics and Interdisciplinary Sciences.  
 
-September 2025, Intersection number of Rankin-Selberg cycles, at Johns Hopkins Number Theory
+September 2025, Intersection number of Rankin--Selberg cycles, at Johns Hopkins Number Theory
 Seminar.  
 
 
