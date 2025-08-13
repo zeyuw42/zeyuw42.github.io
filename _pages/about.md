@@ -14,7 +14,7 @@ My research interest is in geometric representation theory, especially the Langl
 # Preprints
 ------
 
-1. [Special Cycle on Shtukas and Categorical Trace](https://zeyuw42.github.io/assets/specialcyclecattrace.pdf). Updated on Aug 11, 2025.
+1. [Special Cycle on Shtukas and Categorical Trace](https://zeyuw42.github.io/assets/specialcyclecattrace.pdf). Updated on Aug 13, 2025.
 
 2. [Higher Period Integrals and Derivatives of L-functions](https://zeyuw42.github.io/assets/higherperiod.pdf), joint with Shurui Liu, preprint on
 arXiv, [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Updated on Aug 10, 2025.
