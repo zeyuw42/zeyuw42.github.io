@@ -29,7 +29,7 @@ April 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, a
 
 July 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, at Shanghai Institute for Mathematics and Interdisciplinary Sciences.  
 
-September 2025, Intersection number of Rankin--Selberg cycles, at Johns Hopkins Number Theory
+September 2025, Intersection number of Rankin--Selberg cycles on Shtukas, at Johns Hopkins Number Theory
 Seminar.  
 
 
