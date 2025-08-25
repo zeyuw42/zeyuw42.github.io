@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at MIT since 2023. I am fortunate to be advised by Professor Zhiwei Yun. I obtained my bachelor's degree from Peking University.
+I am a graduate student at MIT advised by Professor Zhiwei Yun since 2023. Before that, I obtained my bachelor's degree from Peking University.
 
 My research interest is in geometric representation theory, especially the Langlands program. Recently, I have been working on the intersection theory of special cycles on Shtukas.
 
