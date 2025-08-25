@@ -25,20 +25,24 @@ arXiv, [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Upd
 # Talks
 ------
 
-April 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, at UChicago Representation Theory Seminar.  
+September 2025, Intersection number of Rankin--Selberg cycles on Shtukas, at Johns Hopkins Number Theory
+Seminar.  
 
 July 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, at Shanghai Institute for Mathematics and Interdisciplinary Sciences.  
 
-September 2025, Intersection number of Rankin--Selberg cycles on Shtukas, at Johns Hopkins Number Theory
-Seminar.  
+April 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, at UChicago Representation Theory Seminar.  
+
+
+
+
 
 
 
 # Teaching
 ------
 
-2024 Fall, TA for 18.725, Algebraic Geometry
+2025 Spring, TA for 18.703, Modern Algebra.
 
-2025 Spring, TA for 18.703, Modern Algebra
+2024 Fall, TA for 18.725, Algebraic Geometry I.
 
 
