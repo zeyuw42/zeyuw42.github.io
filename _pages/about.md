@@ -43,7 +43,7 @@ April 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, a
 # Teaching
 ------
 
-2025 Fall, TA for 18.725, Algrbaic Geometry I.
+2025 Fall, TA for 18.725, Algebraic Geometry I.
 
 2025 Spring, TA for 18.703, Modern Algebra.
 
