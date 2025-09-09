@@ -25,6 +25,8 @@ arXiv [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Upda
 # Talks
 ------
 
+November 2025, at UC Berkeley RTG Arithmetic Geometry and Number Theory Seminar.
+
 September 2025, Intersection number of Rankin--Selberg cycles on Shtukas, at Johns Hopkins Number Theory
 Seminar.  
 
@@ -40,6 +42,8 @@ April 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, a
 
 # Teaching
 ------
+
+2025 Fall, TA for 18.725, Algrbaic Geometry I.
 
 2025 Spring, TA for 18.703, Modern Algebra.
 
