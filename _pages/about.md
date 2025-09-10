@@ -30,7 +30,7 @@ November 2025, at UC Berkeley RTG Arithmetic Geometry and Number Theory Seminar.
 September 2025, Intersection number of Rankin--Selberg cycles on Shtukas, at Johns Hopkins Number Theory
 Seminar.  
 
-July 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, at Shanghai Institute for Mathematics and Interdisciplinary Sciences.  
+July 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, at Shanghai Institute for Mathematics and Interdisciplinary Sciences. [bilibili](https://www.bilibili.com/video/BV1LtgSzCE4y)
 
 April 2025, Higher Derivatives of L-functions via Rankin--Selberg convolution, at UChicago Representation Theory Seminar.  
 
