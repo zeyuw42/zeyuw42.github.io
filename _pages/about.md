@@ -11,6 +11,7 @@ I am a graduate student at MIT advised by Professor Zhiwei Yun since 2023.
 
 My research interest is in geometric representation theory, especially the Langlands program. Recently, I have been working on the intersection theory of special cycles on Shtukas.
 
+
 # Preprints
 ------
 
@@ -24,6 +25,17 @@ arXiv [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Upda
 
 # Talks
 ------
+July 2026, Conference on Euler system, at Nisyros, Greece.
+
+March 2026, at Yale Geometry, Symmetry, and Physics Seminar.
+
+March 2026, AMS Sectional meeting, at Boston College.
+
+March 2026, at Boston College Number theory and Representaion Theory Seminar.
+
+February 2026, Thematic month on the Langlands program, at CIRM.
+
+Janurary 2026, Volume of Shtukas: general case, Conference on the Relative Langlands Program, at NUS.
 
 November 2025, Intersection number of Rankin--Selberg cycles on Shtukas, at UC Berkeley RTG Arithmetic Geometry and Number Theory Seminar.
 
