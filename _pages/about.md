@@ -12,7 +12,7 @@ I am a graduate student at MIT advised by Professor Zhiwei Yun since 2023.
 My research interest is in geometric representation theory, especially the Langlands program. Recently, I have been working on the intersection theory of special cycles on Shtukas.
 
 
-# Preprints
+# Papers
 ------
 [Arithmetic volume of Shtukas and Langlands duality](https://zeyuw42.github.io/assets/volumeofshtukas.pdf), with Wenqing Wei. Updated on Apr 4, 2026.
 
