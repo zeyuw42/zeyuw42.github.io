@@ -14,11 +14,11 @@ My research interest is in geometric representation theory, especially the Langl
 
 # Preprints
 ------
-[Arithmetic Volume of Shtukas and Langlands duality](https://zeyuw42.github.io/assets/volumeofshtukas.pdf).
+[Arithmetic volume of Shtukas and Langlands duality](https://zeyuw42.github.io/assets/volumeofshtukas.pdf), joint with Wenqing Wei.
 
-[Special Cycle on Shtukas and Categorical Trace](https://zeyuw42.github.io/assets/specialcyclecattrace.pdf), preprint on arXiv [https://arxiv.org/abs/2509.05526](https://arxiv.org/abs/2509.05526). Updated on Sep 5, 2025.
+[Special cycle on Shtukas and categorical trace](https://zeyuw42.github.io/assets/specialcyclecattrace.pdf), preprint on arXiv [https://arxiv.org/abs/2509.05526](https://arxiv.org/abs/2509.05526). Updated on Sep 5, 2025.
 
-[Higher Period Integrals and Derivatives of L-functions](https://zeyuw42.github.io/assets/higherperiod.pdf), joint with Shurui Liu, preprint on
+[Higher period integrals and derivatives of L-functions](https://zeyuw42.github.io/assets/higherperiod.pdf), joint with Shurui Liu, preprint on
 arXiv [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Updated on Apr 2, 2026.
 
 Appendix to "On the relative Langlands duality for Sp_2n\GL2n+1" by Guodong Xi and Weixiao Lu, preprint on arXiv [https://www.arxiv.org/abs/2504.18774](https://www.arxiv.org/abs/2504.18774).
