@@ -24,6 +24,8 @@ arXiv [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Upda
 Appendix to "On the relative Langlands duality for Sp_2n\GL2n+1" by Guodong Xi and Weixiao Lu, preprint on arXiv [https://www.arxiv.org/abs/2504.18774](https://www.arxiv.org/abs/2504.18774).
 
 <div style='display: none'>
+
+  
 # Talks
 ------
 July 2026, Conference on Euler system, at Nisyros, Greece.
