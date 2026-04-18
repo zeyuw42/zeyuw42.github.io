@@ -14,9 +14,9 @@ My research interest is in geometric representation theory, especially the Langl
 
 # Papers in preparation
 
-* [Relative Langlands duality and derivatives of L-functions]. In this work, I explain a general conjectural framework relating derivatives of L-functions to intersection numbers of cycles on Shtukas, providing a unified perspective on this phenomenon.
+* [Relative Langlands duality and derivatives of L-functions](). In this work, I explain a general conjectural framework relating derivatives of L-functions to intersection numbers of cycles on Shtukas, providing a unified perspective on this phenomenon.
 
-* [Diagonal cycle on Shtukas and derivatives of adjoint L-function]. In this work, I consider a general split semisimple group G. I relate the intersection number of the diagonal cycle on the moduli of G-Shtukas to derivatives of the adjoint L-function.
+* [Diagonal cycle on Shtukas and derivatives of adjoint L-function](). In this work, I consider a general split semisimple group G. I relate the intersection number of the diagonal cycle on the moduli of G-Shtukas to derivatives of the adjoint L-function.
 
 
 
