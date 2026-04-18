@@ -11,15 +11,22 @@ I am a graduate student at MIT advised by Professor Zhiwei Yun since 2023.
 
 My research interest is in geometric representation theory, especially the Langlands program. Recently, I have been working on the intersection theory of special cycles on Shtukas.
 
+# Papers in preparation
+
+* [Relative Langlands duality and derivatives of L-functions]. In this work, I explain a general conjectural framework relating derivatives of L-functions to intersection numbers of cycles on Shtukas, providing a unified perspective on this phenomenon.
+
+* [Diagonal cycle on Shtukas and derivatives of adjoint L-function]. In this work, I consider a general split semisimple group G. I relate the intersection number of the diagonal cycle on the moduli of G-Shtukas to derivatives of the adjoint L-function.
+
 
 # Papers
 ------
+
 * [Arithmetic volume of Shtukas and Langlands duality](https://zeyuw42.github.io/assets/volumeofshtukas.pdf), with Wenqing Wei, preprint on arXiv [https://arxiv.org/abs/2604.03763](https://arxiv.org/abs/2604.03763). Updated on Apr 7, 2026.
 
-* [Special cycle on Shtukas and categorical trace](https://zeyuw42.github.io/assets/specialcyclecattrace.pdf), preprint on arXiv [https://arxiv.org/abs/2509.05526](https://arxiv.org/abs/2509.05526). Updated on Sep 5, 2025.
+* [Special cycle on Shtukas and categorical trace](https://zeyuw42.github.io/assets/specialcyclecattrace.pdf), preprint on arXiv [https://arxiv.org/abs/2509.05526](https://arxiv.org/abs/2509.05526). Submitted. Updated on Sep 5, 2025.
 
 * [Higher period integrals and derivatives of L-functions](https://zeyuw42.github.io/assets/higherperiod.pdf), with Shurui Liu, preprint on
-arXiv [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Updated on Apr 2, 2026.
+arXiv [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Submitted. Updated on Apr 2, 2026.
 
 * Appendix to "On the relative Langlands duality for Sp_2n\GL2n+1" by Guodong Xi and Weixiao Lu, preprint on arXiv [https://www.arxiv.org/abs/2504.18774](https://www.arxiv.org/abs/2504.18774).
 
