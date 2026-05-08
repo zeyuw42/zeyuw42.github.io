@@ -9,7 +9,7 @@ redirect_from:
 
 I am a graduate student at MIT advised by Professor Zhiwei Yun since 2023.
 
-My research interest is in geometric representation theory, especially the Langlands program. Recently, I have been working on the intersection theory of special cycles on Shtukas.
+My research interest is in geometric representation theory, especially the Langlands program. Recently, I have been working on the intersection theory of special cycles on Shtukas. Here is my [CV](https://zeyuw42.github.io/assets/cv.pdf).
 
 <!--
 # Papers in preparation
