@@ -22,7 +22,7 @@ My research interest is in geometric representation theory, especially the Langl
 
 # Papers
 
-* [Diagonal cycles on Shtukas and the adjoint L-function](https://zeyuw42.github.io/assets/diagonalcycle.pdf). Updated on July 24, 2026.
+* [Diagonal cycles on Shtukas and the adjoint L-function](https://zeyuw42.github.io/assets/diagonalcycle.pdf), preprint on arXiv [https://arxiv.org/abs/2607.25237](https://arxiv.org/abs/2607.25237). Updated on July 24, 2026.
 
 * [Arithmetic volume of Shtukas and Langlands duality](https://zeyuw42.github.io/assets/volumeofshtukas.pdf), with Wenqing Wei, preprint on arXiv [https://arxiv.org/abs/2604.03763](https://arxiv.org/abs/2604.03763). Submitted. Updated on Apr 7, 2026.
 
