@@ -29,7 +29,7 @@ My research interest is in geometric representation theory, especially the Langl
 * [Special cycle on Shtukas and categorical trace](https://zeyuw42.github.io/assets/specialcyclecattrace.pdf), preprint on arXiv [https://arxiv.org/abs/2509.05526](https://arxiv.org/abs/2509.05526). Submitted. Updated on Aug 13, 2026.
 
 * [Higher period integrals and derivatives of L-functions](https://zeyuw42.github.io/assets/higherperiod.pdf), with Shurui Liu, preprint on
-arXiv [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Submitted. Updated on Apr 2, 2026.
+arXiv [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Submitted. Updated on Oct 19, 2026.
 
 * Appendix to "On the relative Langlands duality for Sp_2n\GL2n+1" by Guodong Xi and Weixiao Lu, preprint on arXiv [https://www.arxiv.org/abs/2504.18774](https://www.arxiv.org/abs/2504.18774).
 
