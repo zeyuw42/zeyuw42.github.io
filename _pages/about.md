@@ -33,6 +33,15 @@ arXiv [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Subm
 
 * Appendix to "On the relative Langlands duality for Sp_2n\GL2n+1" by Guodong Xi and Weixiao Lu, preprint on arXiv [https://www.arxiv.org/abs/2504.18774](https://www.arxiv.org/abs/2504.18774).
 
+
+------
+
+# AI assisted works
+
+* [Orthogonal Gan--Gross--Prasad conjecture in geometric Langlands](https://zeyuw42.github.io/assets/orthogonalggp.pdf). Updated on Oct 23, 2026.
+
+
+
 <!--
 
   
