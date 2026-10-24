@@ -38,7 +38,7 @@ arXiv [https://arxiv.org/abs/2504.00275](https://arxiv.org/abs/2504.00275). Subm
 
 # AI assisted works
 
-* [Orthogonal Gan--Gross--Prasad conjecture in geometric Langlands](https://zeyuw42.github.io/assets/orthogonalggp.pdf). Updated on Oct 23, 2026.
+* [Gross--Prasad conjecture in geometric Langlands](https://zeyuw42.github.io/assets/orthogonalggp.pdf). Updated on Oct 24, 2026.
 
 
 
